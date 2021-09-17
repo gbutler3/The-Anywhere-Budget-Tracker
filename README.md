@@ -20,9 +20,9 @@ THEN that will be shown on the page, and added to their transaction history when
 
 ## WalkThrough
 
-<!-- [Deployed Application on Heroku](https://glacial-dawn-31912.herokuapp.com/) -->
+[Deployed Application on Heroku](https://sleepy-mesa-04272.herokuapp.com/)
 
-Coming Soon!
+![preview of web page](directions\Screenshot.PNG)
 
 ## License
 
