@@ -22,7 +22,7 @@ THEN that will be shown on the page, and added to their transaction history when
 
 [Deployed Application on Heroku](https://sleepy-mesa-04272.herokuapp.com/)
 
-![preview of web page](directions\Screenshot.PNG)
+![preview of web page](public\Screenshot.PNG)
 
 ## License
 
